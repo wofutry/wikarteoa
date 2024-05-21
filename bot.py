@@ -1,7 +1,7 @@
 """
 Metabos Auto Defeat Boss
 
-Author: @AkasakaID
+Author: @wofutry
 """
 
 import sys
